@@ -61,9 +61,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/21xpamdnhcgehvv37owc7gt5i">
+  
     ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xpamdnhcgehvv37owc7gt5i)
-  </a>
+  
 </div>
 
 ###

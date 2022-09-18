@@ -60,6 +60,7 @@
 
 ###
 
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xpamdnhcgehvv37owc7gt5i)
 <div align="center">
   
     ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xpamdnhcgehvv37owc7gt5i)

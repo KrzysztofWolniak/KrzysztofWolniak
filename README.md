@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Krzysztof (as you saw in my nickname 😅). <br><br>📚I'm a student at Wrocław University of Science and Technology (or WUST if You want👌🏼)<br>I'm form Poland🤍❤️, now living in Wrocław</h3>
+<h3 align="left">My name is Krzysztof (as you saw in my nickname 😅). <br><br>📚I'm a student at Wrocław University of Science and Technology (or WUST if You want👌🏼)<br>I'm from Poland🤍❤️, now living in Wrocław</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">🛍️This project is online shop website for my father's business🏭<br>📚I'm using it to develop my skills in programing while helping my father grow our familly company💪</p>
+<p align="left">🛍️This project is online shop website for my father's business🏭<br>📚I'm using it to develop my skills in programing while helping my father grow our family company💪</p>
 
 ###
 

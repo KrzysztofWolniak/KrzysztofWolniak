@@ -10,7 +10,6 @@
 
 ###
 
-<h3 align="left">🧠I'm studying mechatronics at the Faculty of Mechanical Engineering⚙️<br><br>💻Developing my skills in :</h3>
 
 ###
 

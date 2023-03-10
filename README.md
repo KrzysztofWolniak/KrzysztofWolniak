@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">My hobby? <br><br>Besides programing, I take great pleasure in driving my car🏎, woodworking🌳 and welding🥽<br><br>I also love everything that has engine!  🏎🏍🚗 and also all sort of<br> automatization, thats why I decided to study mechatronics🦾🦾🦾 !!</h3>
+<h3 align="left">My hobby? <br><br>Besides programing, I take great pleasure in driving my car🏎, woodworking🌳 and welding🥽<br><br>I also love everything that has engine!  🏎🏍🚗 </h3>
 
 ###
 
